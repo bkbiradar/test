@@ -1,2 +1,2 @@
 # test
-Just for a test
+Creating repository for a test.
